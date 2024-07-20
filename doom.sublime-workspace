@@ -1,0 +1,702 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"étage",
+				"étage_haut0"
+			],
+			[
+				"étage_haut",
+				"étage_haut0"
+			],
+			[
+				"ajout",
+				"ajout_Etage"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"ance",
+				"ancre_y"
+			],
+			[
+				"GroupeS",
+				"GroupeS"
+			],
+			[
+				"mur",
+				"murs3D"
+			],
+			[
+				"ajout_Exc",
+				"ajout_ExcluIn"
+			],
+			[
+				"ajout_E",
+				"ajout_ExcluOut"
+			],
+			[
+				"DE",
+				"DEBUG_0"
+			],
+			[
+				"SN",
+				"SN"
+			],
+			[
+				"CARTE",
+				"CARTE_RATIO"
+			],
+			[
+				"rX",
+				"rX"
+			],
+			[
+				"GL_",
+				"GL_CLIP_PLANE0"
+			],
+			[
+				"no",
+				"no"
+			],
+			[
+				"groupeA",
+				"groupeA"
+			],
+			[
+				"B",
+				"B"
+			],
+			[
+				"A",
+				"A"
+			],
+			[
+				"yaMur",
+				"yaMurHaut"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"self",
+				"self"
+			],
+			[
+				"scène",
+				"scène"
+			],
+			[
+				"calc",
+				"calc_DéniveléSol"
+			],
+			[
+				"cac",
+				"calcul_Dénivelé"
+			],
+			[
+				"N",
+				"NB_DECIMALES"
+			],
+			[
+				"Y_",
+				"Y_buf"
+			],
+			[
+				"pi",
+				"pièce1"
+			],
+			[
+				"murs",
+				"murs"
+			],
+			[
+				"LUM",
+				"LUMIN0"
+			],
+			[
+				"lumi",
+				"lumin_plafond"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"LUMIN",
+				"LUMIN_SOLEIL"
+			],
+			[
+				"mode",
+				"mode_dessin"
+			],
+			[
+				"M",
+				"M"
+			],
+			[
+				"u",
+				"u"
+			],
+			[
+				"X",
+				"X2"
+			],
+			[
+				"sec",
+				"secteurs"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/newPython3.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/newPython3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/newPython3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/newPython3.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/newPython3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"install package control",
+			"Install PackageControl",
+			"Install Package Control"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jstern/Documents/Geek/doom2/doom2"
+	],
+	"file_history":
+	[
+		"/Users/jstern/Documents/Geek/doom2/doom.sublime-project",
+		"/Users/jstern/Documents/Geek/doom2/sprites.py",
+		"/Users/jstern/Documents/Geek/doom2/env.py",
+		"/Users/jstern/Documents/Geek/doom2/plans.py",
+		"/Users/jstern/Documents/Geek/doom2/tracer.py",
+		"/Users/jstern/Documents/Geek/doom2/scene3d.py",
+		"/Users/jstern/Documents/Geek/doom2/monde.py",
+		"/Users/jstern/Documents/Geek/doom2/structure.py",
+		"/Users/jstern/Documents/Geek/doom2/textures.py",
+		"/Users/jstern/Documents/Geek/doom2/doom_v0.139.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/textures/Texturemap2.jpg",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/shaders.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/shader.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/tst.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/test.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/zbuffer.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/joueur.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/parenth.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/doom.sublime-project",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/env.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/tracer.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/structure.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/monde.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/scene3d.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/plans.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/scène3d.py",
+		"/usr/local/lib/python3.7/site-packages/pyglet/clock.py",
+		"/usr/local/lib/python3.7/site-packages/pyglet/app/base.py",
+		"/usr/local/lib/python3.7/site-packages/pyglet/app/__init__.py",
+		"/Users/jstern/Library/Application Support/Sublime Text 3/Packages/User/newPython3.sublime-build",
+		"/Users/jstern/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/jstern/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/jstern/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/jstern/Library/Application Support/Sublime Text 3/Packages/User/HighlightBuildErrors.sublime-settings",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/doom_v0.114.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/doom_v0.113.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/doom_v0.112.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/doom_v0.100.py",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/AP DM TD/AP 05 types construits/correction exercice bilan final.py",
+		"/Users/jstern/nextcloud3/Cours Tle NSI/doom/secteur.py",
+		"/Users/jstern/nextcloud3/Cours 1ères NSI/AP DM TD/AP 04 Algorithmes de tri/AP04 - algos de tri.py",
+		"/Users/jstern/Desktop/Importation.py",
+		"/Users/jstern/nextcloud3/Cours 1ère PC/Thème 4 - Ondes et Signaux/Chapitre 5 - Ondes mécaniques/sonar_complet.py",
+		"/Users/jstern/Dropbox/Terminale/Projet/Mini-projet 2 Classe Graphe/Mini-projet 2 Class Graphe.py",
+		"/Users/jstern/nextcloud3/NSI/France IOI/empilement_cylindres.py",
+		"/Users/jstern/nextcloud3/NSI/France IOI/recette_secrete.py",
+		"/private/var/folders/cb/n4ghd5zd3s9d1yhw3c_fjzqw0000gn/T/fz3temp-2/moodle.png",
+		"/Users/jstern/Downloads/snmp-interface-throughput_rev1.json",
+		"/Users/jstern/Downloads/snmp-interface-throughput_rev4.json",
+		"/Users/jstern/Downloads/node-exporter-full_rev16.json",
+		"/Users/jstern/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/jstern.json",
+		"/Users/jstern/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/jstern",
+		"/var/folders/cb/n4ghd5zd3s9d1yhw3c_fjzqw0000gn/T/sublime-sftp-browse-1585816298/jstern/var/www/html/arthur/index.html",
+		"/var/folders/cb/n4ghd5zd3s9d1yhw3c_fjzqw0000gn/T/sublime-sftp-browse-1585683372/jstern/var/www/html/appli/script.js",
+		"/Users/jstern/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jstern/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jstern/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/jstern/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/jstern/Library/Application Support/Sublime Text 3/Packages/SFTP/Default (OSX).sublime-keymap",
+		"/Users/jstern/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/var/folders/cb/n4ghd5zd3s9d1yhw3c_fjzqw0000gn/T/sublime-sftp-browse-1585075521/jstern/var/www/html/index.html",
+		"/var/folders/cb/n4ghd5zd3s9d1yhw3c_fjzqw0000gn/T/sublime-sftp-browse-1585075392/jstern/var/www/html/index.html",
+		"/var/folders/cb/n4ghd5zd3s9d1yhw3c_fjzqw0000gn/T/sublime-sftp-browse-1585075330/jstern/var/www/html/admin/index.html",
+		"/Users/jstern/Library/Application Support/Sublime Text 3/Packages/User/FTPSync.sublime-settings",
+		"/var/folders/cb/n4ghd5zd3s9d1yhw3c_fjzqw0000gn/T/sublime-sftp-browse-1585075185/jstern/var/www/html/admin/index.html",
+		"/Users/jstern/Library/Application Support/Sublime Text 3/Packages/User/ftpsync.settings",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/Algo/algo_suggestion_specialite/recommadation_specialite.py",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/cube.py",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/Algo/algo_suggestion_specialite/knn.py",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/Algo/AP04 - algos de tri debug.py",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/Algo/AP04 - algos de tri.py",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/Algo/tri.py",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/AP DM TD/AP 04 Algorithmes de tri/AP04 - algos de tri.py",
+		"/Users/jstern/Downloads/fail2ban_rev1.json",
+		"/private/var/folders/cb/n4ghd5zd3s9d1yhw3c_fjzqw0000gn/T/fz3temp-2/index.html",
+		"/Users/jstern/INSTALL.txt",
+		"/Users/jstern/Desktop/index.html",
+		"/private/var/folders/cb/n4ghd5zd3s9d1yhw3c_fjzqw0000gn/T/fz3temp-2/DSCN0001.JPG",
+		"/Users/jstern/Documents/Freenove/Code/Python_Code/25.1.1_MPU6050/MPUConstants.py",
+		"/Users/jstern/Documents/Freenove/Code/Python_Code/25.1.1_MPU6050/MPU6050.py",
+		"/Users/jstern/Documents/Freenove/Code/Python_Code/25.1.1_MPU6050/MPU6050RAW.py",
+		"/Users/jstern/Documents/temp/data.txt",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/Web/views.py",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/France IOI/empilement_cylindres.py",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/Data/DA01 - dec2bin.py",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/AP DM TD/DM 01 encodage/utf-32.q16.txt",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/AP DM TD/DM 01 encodage/q15.txt",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/AP DM TD/DM 01 encodage/unicode.txt",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/AP DM TD/DM 01 encodage/unicode2.txt",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/AP DM TD/DM 01 encodage/iso8859-15.txt",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/Data/DA02 - cryptage XOR.py",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/AP DM TD/DM 01 encodage/utf-8.txt",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/AP DM TD/DM 01 encodage/iso8859-1.txt",
+		"/Users/jstern/Desktop/bookmarks.html",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/constructions élémentaires/boucles.py",
+		"/Users/jstern/Desktop/test.c",
+		"/Users/jstern/Desktop/test.html",
+		"/Users/jstern/Desktop/test.ml",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/DM 01 encodage/utf-8.txt",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/DM 01 encodage/unicode.txt",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/DM 01 encodage/accents.txt",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/DM 01 encodage/iso8859-15.txt",
+		"/Users/jstern/Documents/Prof/1 - Première NSI/DM 01 encodage/ascii.txt",
+		"/Users/jstern/test.txt",
+		"/Users/jstern/Downloads/ApacheGUI 2/bin/stop.sh",
+		"/Users/jstern/Documents/Prof/1 - Premiere NSI/cube.py",
+		"/Users/jstern/Claroline/web/app.php",
+		"/Users/jstern/Sites/index.php",
+		"/Library/WebServer/Documents/index.php",
+		"/Users/jstern/.bash_profile",
+		"/etc/hosts",
+		"/Users/jstern/Documents/archives/docs/Divers/Ingé/Projet RO/simulateur/sources/Simulateur.java",
+		"/Users/jstern/Documents/archives/docs/Divers/Ingé/Stage L Cube/C++/Graphe/Graph.h",
+		"/Users/jstern/Documents/archives/docs/Divers/Ingé/Stage L Cube/C++/Graphe/Graph.cpp",
+		"/Users/jstern/Documents/archives/docs/Divers/Ingé/Stage L Cube/C++/Graphe/main.cpp",
+		"/Users/jstern/Downloads/scid/README.md",
+		"/Users/jstern/Desktop/Echecs/Tournois/Montfavet.ISO.pgn",
+		"/Users/jstern/Desktop/Echecs/Tournois/Montfavet.pgn",
+		"/Users/jstern/Desktop/Echecs/Tournois/montfavet.rtf",
+		"/Users/jstern/Library/Application Support/LTspice/lib/sub/LM741.sub",
+		"/Users/jstern/sub/LM741.sub",
+		"/private/var/folders/cb/n4ghd5zd3s9d1yhw3c_fjzqw0000gn/T/fz3temp-2/index.htm",
+		"/Users/jstern/Desktop/index.htm"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"tex0",
+			"text0",
+			"tex0",
+			"##",
+			"c_float",
+			"c_float p",
+			".c==",
+			"E.R1",
+			"étage",
+			"sprites",
+			"44",
+			"no=5",
+			"cieux",
+			"ciel",
+			"cieux",
+			"E.CIEL",
+			"CIEL",
+			"None",
+			"no=1",
+			"no=4",
+			"34",
+			"55",
+			"53",
+			"init_Eclairage",
+			"53",
+			"56",
+			"x_clip",
+			"nb",
+			",(A,B),(S,N)",
+			",(A,B)",
+			",A,B",
+			".B",
+			".A",
+			"cf=",
+			"exclu",
+			"56",
+			"34",
+			"56",
+			"54",
+			"print",
+			"self.lots3D,",
+			"caché",
+			"self.quads",
+			"revenir",
+			"j.s",
+			"courant",
+			"M.",
+			"rec",
+			"mur_haut",
+			"E.MODE_DESSIN",
+			"cieux",
+			"Lumière",
+			"lumin",
+			"kumin",
+			"E.LUMI",
+			"init_E",
+			".U",
+			"structure",
+			"init_Ec",
+			"init",
+			"plafond.incline",
+			"DéniveléPlafond",
+			"DéniveléSol",
+			"plafond_pentu",
+			"sol_pentu",
+			"nb_sect",
+			"ajout",
+			"mode_dessin",
+			"self.",
+			"C[",
+			"E.",
+			"44",
+			"ug",
+			":\n",
+			"jh",
+			"self.j.h",
+			"j.h",
+			"self.h",
+			"j.h",
+			"self.j.h",
+			"calcul",
+			"cl",
+			"calcul",
+			"h2[0]",
+			"h2[1]",
+			"h1[1]",
+			"h1[0]",
+			"plafond",
+			"print",
+			":None",
+			"init",
+			"42:",
+			"print",
+			"s.ombre",
+			"ss.ombre",
+			"ss.lumin",
+			"s.lumin",
+			".sc",
+			"COULEURS[",
+			"self.secteurs",
+			"cm",
+			".ss",
+			"portails",
+			"print",
+			"m.ss",
+			"calc_PS",
+			"calc_PV",
+			"N",
+			"mode_lum",
+			"retourner()",
+			"glisser",
+			"entrée_ss",
+			"enrée_sous_secteur",
+			"self",
+			"j.a_droite",
+			"PV2",
+			"PV",
+			"debug",
+			"*SPEED",
+			"SPEED",
+			"calc_P",
+			"python",
+			"é"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",AB,SN",
+			",(A,B),(S,N)",
+			",(A,B)",
+			".N",
+			".S",
+			"",
+			"self.T.quads",
+			"self.M.",
+			"en_haut",
+			"plafond.incliné",
+			"Dénivelé",
+			"plafond.incline",
+			"sol.incliné",
+			"self.ajout",
+			"E.MODE_DESSIN",
+			"M.",
+			"E.C[",
+			"self.",
+			"hj",
+			"jh",
+			"",
+			"calc",
+			"hs2",
+			"hp2",
+			"hp1",
+			"hs1",
+			"mur.ombre",
+			"mur.lumin",
+			"C[",
+			"*COEFF_ACCEL"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 179.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "Packages/User/newPython3.sublime-build",
+	"project": "doom.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
